@@ -14,14 +14,6 @@
 		"location": "Valletta",
 		"date": "1st of Jan",
 		"time": "12.00"
-	},
-	{
-		"id": 3,
-		"title": "Task 3",
-		"description": "Description for task 3",
-		"location": "Valletta",
-		"date": "1st of Jan",
-		"time": "12.00"
 	}
 ]
 }
